@@ -7,3 +7,4 @@ of that application which, when executed, opens a port and allows communication
 with the injected code via a socket.
 
 Requires the Windows Phone 8 SDK to work properly.
+Includes binaries for the Mono.Cecil project, used as references.
